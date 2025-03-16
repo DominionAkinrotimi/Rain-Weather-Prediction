@@ -2,7 +2,7 @@
 
 🚀 **A simple AI-powered weather prediction app that forecasts whether it will rain based on basic weather conditions!**  
 
-![Rain Prediction]([https://upload.wikimedia.org/wikipedia/commons/5/5f/Weather_Icons_-_Rain.png](https://en.wikipedia.org/wiki/File:Marestail.jpg))  
+![Rain Prediction](https://upload.wikimedia.org/wikipedia/commons/b/b9/Stormclouds.jpg)  
 
 ---
 
